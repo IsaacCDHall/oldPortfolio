@@ -27,6 +27,11 @@ bossy{
 
 .pink{
   background-color:#CB7280;
+  padding:3em;
+  border:solid;
+  border-width:1em;
+  text-align:center;
+  border-color:#0D4766 #198FCB #CB1936 #660d1B ;
 }
 .white{
   background-color:#white;
