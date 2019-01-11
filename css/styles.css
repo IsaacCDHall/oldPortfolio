@@ -19,7 +19,7 @@ bossy{
 
 
 .panel-heading{
-  background-color:#CB1936;
+  background-color:#white ;
 }
 
 ul{
@@ -31,11 +31,18 @@ ul{
 }
 
 .jumbotron {
-  background-color:black;
+  background-color:#CB7280;
+  color:white;
+}
+#projects-header{
+  color:#0D4766;
 }
 
 .darkblue{
-  
+  background-color:
   font-family: cursive;
   color:white;
 }
+
+class="darkblue"
+class="darkblue"
