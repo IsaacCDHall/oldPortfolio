@@ -3,7 +3,7 @@
   color: #92CD68;
 }
 
-body{
+bossy{
   background-color:#CB7280;
 }
 
@@ -15,4 +15,17 @@ body{
 
 .navbar{
   color:#92CD68;
+}
+
+
+.panel-heading{
+  background-color:#CB1936;
+}
+
+ul{
+  background-color:#CB7280;
+}
+
+.panel-title{
+  background-color:#198FCB;
 }
