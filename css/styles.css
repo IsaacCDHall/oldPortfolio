@@ -27,5 +27,15 @@ ul{
 }
 
 .panel-title{
-  background-color:#198FCB;
+  background-color:#red;
+}
+
+.jumbotron {
+  background-color:black;
+}
+
+.darkblue{
+  
+  font-family: cursive;
+  color:white;
 }
