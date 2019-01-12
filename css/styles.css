@@ -64,8 +64,16 @@ bossy{
   border-width:1em;
   text-align:center;
   border-color:#0D4766 #198FCB #CB1936 #660d1B ;
-
-
+}
+#long-break {
+  display: block;
+  content: "";
+  margin-top: 80em;
+}
+#medium-break {
+  display: block;
+  content: "";
+  margin-top: 50em;
 }
 class="darkblue"
 class="darkblue"
