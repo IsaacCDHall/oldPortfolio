@@ -20,7 +20,7 @@ _Nothing exterior needed, use modern browser if experiencing viewing errors _
 
 ## Known Bugs
 
-_No current bugs._
+_Projects.html has a ul list embedded in another_
 
 ## Support and contact details
 
