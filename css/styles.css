@@ -75,5 +75,12 @@ bossy{
   content: "";
   margin-top: 50em;
 }
+
+.title-page-text{
+  font-size:2.5em;
+  color:black;
+  font-family: Arial, sans-serif, Helvetica;
+  text-align:center;
+}
 class="darkblue"
 class="darkblue"
