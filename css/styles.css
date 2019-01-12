@@ -57,7 +57,9 @@ bossy{
   font-family: cursive;
   color:red;
 }
-
+#generic-me{
+  float:center;
+}
 
 #projects-display{
   border:solid;
